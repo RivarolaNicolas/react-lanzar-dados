@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lanzar-dados/static/css/main.59b75110.chunk.css",
+    "main.js": "/react-lanzar-dados/static/js/main.913adca1.chunk.js",
+    "main.js.map": "/react-lanzar-dados/static/js/main.913adca1.chunk.js.map",
+    "runtime-main.js": "/react-lanzar-dados/static/js/runtime-main.720c8165.js",
+    "runtime-main.js.map": "/react-lanzar-dados/static/js/runtime-main.720c8165.js.map",
+    "static/js/2.44cfe492.chunk.js": "/react-lanzar-dados/static/js/2.44cfe492.chunk.js",
+    "static/js/2.44cfe492.chunk.js.map": "/react-lanzar-dados/static/js/2.44cfe492.chunk.js.map",
+    "index.html": "/react-lanzar-dados/index.html",
+    "precache-manifest.fb9b04f599c2b098ad35a928d443bc60.js": "/react-lanzar-dados/precache-manifest.fb9b04f599c2b098ad35a928d443bc60.js",
+    "service-worker.js": "/react-lanzar-dados/service-worker.js",
+    "static/css/main.59b75110.chunk.css.map": "/react-lanzar-dados/static/css/main.59b75110.chunk.css.map",
+    "static/js/2.44cfe492.chunk.js.LICENSE.txt": "/react-lanzar-dados/static/js/2.44cfe492.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.720c8165.js",
+    "static/js/2.44cfe492.chunk.js",
+    "static/css/main.59b75110.chunk.css",
+    "static/js/main.913adca1.chunk.js"
+  ]
+}
