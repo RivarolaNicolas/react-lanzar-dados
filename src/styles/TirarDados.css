@@ -1,0 +1,26 @@
+.tirarDados {
+  display: flex;
+  flex-flow: column nowrap;
+  min-height: 100vh;
+}
+.tirarDados-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.tirarDados button {
+  align-self: center;
+  width: 15em;
+  padding: 1.5em;
+  font-size: 1em;
+  border: 0px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  margin-top: 3em;
+}
+
+.tirarDados button:hover {
+  background-color: darkslateblue;
+  cursor: pointer;
+}
